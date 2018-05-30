@@ -1,0 +1,6 @@
+# 这个文件夹主要是用来存储 notepad++ 的两个插件
+1、一个是添加 markdown 支持的插件 markdown_npp_master/default_theme/userDefineLang_markdown
+步骤：语言-用户自定义语言-导入 userDefineLang_markdown文件，重启即可
+
+2、另一个是 markdown 实时预览的插件 notepad++_markdown/NppMarkdown
+步骤：设置-导入-导入插件 NppMarkdown ，重启即可
